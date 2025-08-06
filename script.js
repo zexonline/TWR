@@ -100,4 +100,4 @@ document.querySelectorAll('.filter-buttons button').forEach(button => {
 });
 
 // Initial load: show top songs
-showCategory("top");
+showCategory("all");
